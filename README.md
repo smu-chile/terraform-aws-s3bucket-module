@@ -137,11 +137,3 @@ module "s3_bucket" {
 | this\_s3\_bucket\_website\_endpoint | The website endpoint, if the bucket is configured with a website. If not, this will be an empty string. |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-
-## Authors
-
-Module managed by [Anton Babenko](https://github.com/antonbabenko).
-
-## License
-
-Apache 2 Licensed. See LICENSE for full details.
